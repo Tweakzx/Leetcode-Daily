@@ -51,7 +51,7 @@
 
 ## Database
 
-* [Select](database/select/README.md)
+* [Select](database/select.md)
   * [1757. 可回收且低脂的产品](database/select/1757.-ke-hui-shou-qie-di-zhi-de-chan-pin.md)
 * [Join](database/join.md)
 
