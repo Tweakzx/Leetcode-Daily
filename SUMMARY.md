@@ -53,6 +53,7 @@
 
 * [Select](database/select.md)
   * [1757. 可回收且低脂的产品](database/select/1757.-ke-hui-shou-qie-di-zhi-de-chan-pin.md)
+  * [1741. 查找每个员工花费的总时间](database/select/1741.-cha-zhao-mei-ge-yuan-gong-hua-fei-de-zong-shi-jian.md)
 * [Join](database/join.md)
 
 ## Math
