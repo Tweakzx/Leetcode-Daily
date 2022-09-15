@@ -53,13 +53,14 @@
 
 * [Database](database/database/README.md)
   * [1581. 进店却未进行过交易的顾客](database/database/1581.-jin-dian-que-wei-jin-hang-guo-jiao-yi-de-gu-ke.md)
-  * [1757. 可回收且低脂的产品](database/database/1757.-ke-hui-shou-qie-di-zhi-de-chan-pin.md)
-  * [1741. 查找每个员工花费的总时间](database/database/1741.-cha-zhao-mei-ge-yuan-gong-hua-fei-de-zong-shi-jian.md)
   * [1587. 银行账户概要 II](database/database/1587.-yin-hang-zhang-hu-gai-yao-ii.md)
   * [1693. 每天的领导和合伙人](database/database/1693.-mei-tian-de-ling-dao-he-he-huo-ren.md)
+  * [1741. 查找每个员工花费的总时间](database/database/1741.-cha-zhao-mei-ge-yuan-gong-hua-fei-de-zong-shi-jian.md)
+  * [1757. 可回收且低脂的产品](database/database/1757.-ke-hui-shou-qie-di-zhi-de-chan-pin.md)
 
 ## Math
 
-* [Math](math/math.md)
+* [Math](math/math/README.md)
+  * [672. 灯泡开关 Ⅱ](math/math/672.-deng-pao-kai-guan.md)
 * [Number Theory](math/number-theory.md)
 * [Bit Manipulation](math/bit-manipulation.md)
