@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Page Template](readme/page-template/README.md)
+    * [Subpage Template](readme/page-template/672.-deng-pao-kai-guan.md)
 
 ## Basic Knowledge
 
