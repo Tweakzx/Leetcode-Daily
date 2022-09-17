@@ -31,7 +31,8 @@
 ## Algorithm Design
 
 * [Binary Index](algorithm-design/binary-index.md)
-* [Dynamic Planning](algorithm-design/dynamic-planning.md)
+* [Dynamic Planning](algorithm-design/dynamic-planning/README.md)
+  * [354. 俄罗斯套娃信封问题](algorithm-design/dynamic-planning/672.-deng-pao-kai-guan.md)
 * [Greedy](algorithm-design/greedy.md)
 * [Back Track](algorithm-design/back-track.md)
 * [DFS](algorithm-design/dfs.md)
