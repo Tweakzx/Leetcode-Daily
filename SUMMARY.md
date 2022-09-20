@@ -64,6 +64,7 @@
 ## Math
 
 * [Math](math/math/README.md)
-  * [672. 灯泡开关 Ⅱ](math/math/672.-deng-pao-kai-guan.md)
+  * [974. 和可被 K 整除的子数组](math/math/672.-deng-pao-kai-guan.md)
+  * [672. 灯泡开关 Ⅱ](math/math/672.-deng-pao-kai-guan-1.md)
 * [Number Theory](math/number-theory.md)
 * [Bit Manipulation](math/bit-manipulation.md)
