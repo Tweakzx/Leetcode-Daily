@@ -21,7 +21,8 @@
 
 ## Data Structure
 
-* [Array](data-structure/array.md)
+* [Array](data-structure/array/README.md)
+  * [剑指 Offer 35. 复杂链表的复制](data-structure/array/672.-deng-pao-kai-guan.md)
 * [String](data-structure/string.md)
 * [Linked List](data-structure/linked-list.md)
 * [Hash Set](data-structure/hash-set.md)
