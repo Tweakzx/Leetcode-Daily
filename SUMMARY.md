@@ -11,6 +11,17 @@
 * [Iteration](basic-knowledge/iteration.md)
 * [Divide and Conquer](basic-knowledge/divide-and-conquer.md)
 
+## Data Structure
+
+* [Array](data-structure/array/README.md)
+  * [剑指 Offer 35. 复杂链表的复制](data-structure/array/672.-deng-pao-kai-guan.md)
+* [String](data-structure/string/README.md)
+  * [1044. 最长重复子串](data-structure/string/672.-deng-pao-kai-guan.md)
+* [Linked List](data-structure/linked-list.md)
+* [Hash Set](data-structure/hash-set.md)
+* [Binary Tree](data-structure/binary-tree.md)
+* [Stack and Queue](data-structure/stack-and-queue.md)
+
 ## Sort
 
 * [Bubble, Selection and Insertion Sort](sort/bubble-selection-and-insertion-sort.md)
@@ -18,16 +29,6 @@
 * [Merge Sort](sort/merge-sort.md)
 * [Heap Sort](sort/heap-sort.md)
 * [Linear Complexity Sort Algorithm](sort/linear-complexity-sort-algorithm.md)
-
-## Data Structure
-
-* [Array](data-structure/array/README.md)
-  * [剑指 Offer 35. 复杂链表的复制](data-structure/array/672.-deng-pao-kai-guan.md)
-* [String](data-structure/string.md)
-* [Linked List](data-structure/linked-list.md)
-* [Hash Set](data-structure/hash-set.md)
-* [Binary Tree](data-structure/binary-tree.md)
-* [Stack and Queue](data-structure/stack-and-queue.md)
 
 ## Algorithm Design
 
