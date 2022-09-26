@@ -8,7 +8,7 @@
 
 * [Complexity](basic-knowledge/complexity.md)
 * [Recursion](basic-knowledge/recursion.md)
-* [Iteration](basic-knowledge/iteration/README.md)
+* [Iteration](basic-knowledge/iteration.md)
   * [73. 矩阵置零](basic-knowledge/iteration/672.-deng-pao-kai-guan.md)
 * [Divide and Conquer](basic-knowledge/divide-and-conquer.md)
 
