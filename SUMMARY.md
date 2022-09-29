@@ -7,7 +7,7 @@
 ## Basic Knowledge
 
 * [Complexity](basic-knowledge/complexity.md)
-* [Recursion](basic-knowledge/recursion/README.md)
+* [Recursion](basic-knowledge/recursion.md)
   * [面试题 08.06. 汉诺塔问题](basic-knowledge/recursion/672.-deng-pao-kai-guan.md)
 * [Iteration](basic-knowledge/iteration.md)
   * [73. 矩阵置零](basic-knowledge/iteration/672.-deng-pao-kai-guan.md)
