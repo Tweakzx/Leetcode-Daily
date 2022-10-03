@@ -64,6 +64,7 @@
   * [1693. 每天的领导和合伙人](database/database/1693.-mei-tian-de-ling-dao-he-he-huo-ren.md)
   * [1741. 查找每个员工花费的总时间](database/database/1741.-cha-zhao-mei-ge-yuan-gong-hua-fei-de-zong-shi-jian.md)
   * [1757. 可回收且低脂的产品](database/database/1757.-ke-hui-shou-qie-di-zhi-de-chan-pin.md)
+  * [627. 变更性别](database/database/672.-deng-pao-kai-guan.md)
 
 ## Math
 
