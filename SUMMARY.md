@@ -65,6 +65,11 @@
   * [1741. 查找每个员工花费的总时间](database/database/1741.-cha-zhao-mei-ge-yuan-gong-hua-fei-de-zong-shi-jian.md)
   * [1757. 可回收且低脂的产品](database/database/1757.-ke-hui-shou-qie-di-zhi-de-chan-pin.md)
   * [627. 变更性别](database/database/672.-deng-pao-kai-guan.md)
+  * [175. 组合两个表](database/database/672.-deng-pao-kai-guan-1.md)
+  * [620. 有趣的电影](database/database/672.-deng-pao-kai-guan-2.md)
+  * [1050. 合作过至少三次的演员和导演](database/database/672.-deng-pao-kai-guan-3.md)
+  * [1795. 每个产品在不同商店的价格](database/database/672.-deng-pao-kai-guan-4.md)
+  * [182. 查找重复的电子邮箱](database/database/672.-deng-pao-kai-guan-5.md)
 
 ## Math
 
