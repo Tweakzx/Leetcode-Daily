@@ -46,7 +46,8 @@
 ## Advanced Data Structure
 
 * [Red-Black Tree](advanced-data-structure/red-black-tree.md)
-* [Monotone Stack](advanced-data-structure/monotone-stack.md)
+* [Monotone Stack](advanced-data-structure/monotone-stack/README.md)
+  * [862. 和至少为 K 的最短子数组](advanced-data-structure/monotone-stack/672.-deng-pao-kai-guan.md)
 * [Priority Queue](advanced-data-structure/priority-queue.md)
 * [Segment Tree](advanced-data-structure/segment-tree.md)
 * [B Tree](advanced-data-structure/b-tree.md)
