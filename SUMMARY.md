@@ -11,6 +11,7 @@
   * [面试题 08.06. 汉诺塔问题](basic-knowledge/recursion/672.-deng-pao-kai-guan.md)
 * [Iteration](basic-knowledge/iteration.md)
   * [73. 矩阵置零](basic-knowledge/iteration/672.-deng-pao-kai-guan.md)
+  * [1822. 数组元素积的符号](basic-knowledge/iteration/672.-deng-pao-kai-guan-1.md)
 * [Divide and Conquer](basic-knowledge/divide-and-conquer.md)
 
 ## Data Structure
