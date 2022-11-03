@@ -19,6 +19,7 @@
 * [Array](data-structure/array.md)
 * [String](data-structure/string/README.md)
   * [1044. 最长重复子串](data-structure/string/672.-deng-pao-kai-guan.md)
+  * [1668. 最大重复子字符串](data-structure/string/672.-deng-pao-kai-guan-1.md)
 * [Linked List](data-structure/linked-list/README.md)
   * [剑指 Offer 35. 复杂链表的复制](data-structure/linked-list/672.-deng-pao-kai-guan.md)
 * [Hash Set](data-structure/hash-set.md)
