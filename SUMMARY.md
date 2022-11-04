@@ -87,6 +87,7 @@
   * [974. 和可被 K 整除的子数组](math/math/672.-deng-pao-kai-guan.md)
   * [672. 灯泡开关 Ⅱ](math/math/672.-deng-pao-kai-guan-1.md)
   * [1620. 网络信号最好的坐标](math/math/672.-deng-pao-kai-guan-3.md)
+  * [754. 到达终点数字](math/math/672.-deng-pao-kai-guan-4.md)
 * [Number Theory](math/number-theory.md)
 * [Bit Manipulation](math/bit-manipulation/README.md)
   * [89. 格雷编码](math/bit-manipulation/672.-deng-pao-kai-guan.md)
