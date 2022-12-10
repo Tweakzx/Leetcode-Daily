@@ -30,7 +30,8 @@
 ## Sort
 
 * [Bubble, Selection and Insertion Sort](sort/bubble-selection-and-insertion-sort.md)
-* [Quick Sort](sort/quick-sort.md)
+* [Quick Sort](sort/quick-sort/README.md)
+  * [912. 排序数组](sort/quick-sort/672.-deng-pao-kai-guan.md)
 * [Merge Sort](sort/merge-sort.md)
 * [Heap Sort](sort/heap-sort.md)
 * [Linear Complexity Sort Algorithm](sort/linear-complexity-sort-algorithm.md)
