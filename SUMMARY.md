@@ -98,5 +98,5 @@
   * [192. 统计词频](shell/awk/672.-deng-pao-kai-guan.md)
 * [grep](shell/grep.md)
 * [sed](shell/sed.md)
-* [Page Template](shell/page-template.md)
-* [Subpage Template](shell/672.-deng-pao-kai-guan.md)
+* [Page Template](readme/page-template.md)
+* [Subpage Template](readme/672.-deng-pao-kai-guan.md)
