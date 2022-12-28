@@ -1,18 +1,16 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Page Template](readme/page-template.md)
-  * [Subpage Template](readme/672.-deng-pao-kai-guan.md)
 
 ## Basic Knowledge
 
-* [Complexity](basic-knowledge/complexity.md)
 * [Recursion](basic-knowledge/recursion.md)
   * [面试题 08.06. 汉诺塔问题](basic-knowledge/recursion/672.-deng-pao-kai-guan.md)
 * [Iteration](basic-knowledge/iteration.md)
   * [73. 矩阵置零](basic-knowledge/iteration/672.-deng-pao-kai-guan.md)
   * [1822. 数组元素积的符号](basic-knowledge/iteration/672.-deng-pao-kai-guan-1.md)
 * [Divide and Conquer](basic-knowledge/divide-and-conquer.md)
+* [Complexity](basic-knowledge/complexity.md)
 
 ## Data Structure
 
@@ -62,6 +60,18 @@
 * [Dijstra](graph/dijstra.md)
 * [Union Find Set](graph/union-find-set.md)
 
+## Math
+
+* [Math](math/math/README.md)
+  * [204. 计数质数](<math/math/672.-deng-pao-kai-guan (1).md>)
+  * [974. 和可被 K 整除的子数组](math/math/672.-deng-pao-kai-guan.md)
+  * [672. 灯泡开关 Ⅱ](math/math/672.-deng-pao-kai-guan-1.md)
+  * [1620. 网络信号最好的坐标](math/math/672.-deng-pao-kai-guan-3.md)
+  * [754. 到达终点数字](math/math/672.-deng-pao-kai-guan-4.md)
+* [Number Theory](math/number-theory.md)
+* [Bit Manipulation](math/bit-manipulation/README.md)
+  * [89. 格雷编码](math/bit-manipulation/672.-deng-pao-kai-guan.md)
+
 ## Database
 
 * [Select From Where](database/database/README.md)
@@ -82,14 +92,11 @@
 * [Order by](database/order-by/README.md)
   * [620. 有趣的电影](database/order-by/672.-deng-pao-kai-guan.md)
 
-## Math
+## Shell
 
-* [Math](math/math/README.md)
-  * [204. 计数质数](<math/math/672.-deng-pao-kai-guan (1).md>)
-  * [974. 和可被 K 整除的子数组](math/math/672.-deng-pao-kai-guan.md)
-  * [672. 灯泡开关 Ⅱ](math/math/672.-deng-pao-kai-guan-1.md)
-  * [1620. 网络信号最好的坐标](math/math/672.-deng-pao-kai-guan-3.md)
-  * [754. 到达终点数字](math/math/672.-deng-pao-kai-guan-4.md)
-* [Number Theory](math/number-theory.md)
-* [Bit Manipulation](math/bit-manipulation/README.md)
-  * [89. 格雷编码](math/bit-manipulation/672.-deng-pao-kai-guan.md)
+* [awk](shell/awk/README.md)
+  * [192. 统计词频](shell/awk/672.-deng-pao-kai-guan.md)
+* [grep](shell/grep.md)
+* [sed](shell/sed.md)
+* [Page Template](shell/page-template.md)
+* [Subpage Template](shell/672.-deng-pao-kai-guan.md)
