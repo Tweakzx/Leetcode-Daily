@@ -9,7 +9,7 @@
 * [Iteration](basic-knowledge/iteration.md)
   * [73. 矩阵置零](basic-knowledge/iteration/672.-deng-pao-kai-guan.md)
   * [1822. 数组元素积的符号](basic-knowledge/iteration/672.-deng-pao-kai-guan-1.md)
-* [Divide and Conquer](basic-knowledge/divide-and-conquer/README.md)
+* [Divide and Conquer](basic-knowledge/divide-and-conquer.md)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan.md)
 * [Complexity](basic-knowledge/complexity.md)
 
