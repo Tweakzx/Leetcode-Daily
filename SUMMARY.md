@@ -11,6 +11,7 @@
   * [1822. 数组元素积的符号](basic-knowledge/iteration/672.-deng-pao-kai-guan-1.md)
 * [Divide and Conquer](basic-knowledge/divide-and-conquer.md)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan.md)
+  * [1870. 准时到达的列车最小时速](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan-1.md)
 * [Complexity](basic-knowledge/complexity.md)
 
 ## Data Structure
