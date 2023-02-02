@@ -15,10 +15,6 @@
 ## Data Structure
 
 * [Array](data-structure/array.md)
-  * [34. 在排序数组中查找元素的第一个和最后一个位置](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan.md)
-  * [1870. 准时到达的列车最小时速](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan-1.md)
-  * [1894. 找到需要补充粉笔的学生编号](data-structure/array/672.-deng-pao-kai-guan-2.md)
-  * [1898. 可移除字符的最大数目](data-structure/array/672.-deng-pao-kai-guan-3.md)
 * [String](data-structure/string/README.md)
   * [1044. 最长重复子串](data-structure/string/672.-deng-pao-kai-guan.md)
   * [1668. 最大重复子字符串](data-structure/string/672.-deng-pao-kai-guan-1.md)
@@ -41,6 +37,11 @@
 ## Algorithm Design
 
 * [Binary Index](algorithm-design/binary-index.md)
+* [Binary Search](algorithm-design/binary-search/README.md)
+  * [34. 在排序数组中查找元素的第一个和最后一个位置](algorithm-design/binary-search/672.-deng-pao-kai-guan.md)
+  * [1898. 可移除字符的最大数目](algorithm-design/binary-search/672.-deng-pao-kai-guan-1.md)
+  * [1894. 找到需要补充粉笔的学生编号](algorithm-design/binary-search/672.-deng-pao-kai-guan-2.md)
+  * [1870. 准时到达的列车最小时速](algorithm-design/binary-search/672.-deng-pao-kai-guan-3.md)
 * [DP](algorithm-design/dynamic-planning.md)
   * [354. 俄罗斯套娃信封问题](algorithm-design/dynamic-planning/672.-deng-pao-kai-guan.md)
 * [Greedy](algorithm-design/greedy.md)
