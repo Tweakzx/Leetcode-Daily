@@ -14,9 +14,9 @@
 
 ## Data Structure
 
-* [Array](data-structure/array/README.md)
-  * [34. 在排序数组中查找元素的第一个和最后一个位置](data-structure/array/672.-deng-pao-kai-guan.md)
-  * [1870. 准时到达的列车最小时速](data-structure/array/672.-deng-pao-kai-guan-1.md)
+* [Array](data-structure/array.md)
+  * [34. 在排序数组中查找元素的第一个和最后一个位置](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan.md)
+  * [1870. 准时到达的列车最小时速](basic-knowledge/divide-and-conquer/672.-deng-pao-kai-guan-1.md)
   * [1894. 找到需要补充粉笔的学生编号](data-structure/array/672.-deng-pao-kai-guan-2.md)
   * [1898. 可移除字符的最大数目](data-structure/array/672.-deng-pao-kai-guan-3.md)
 * [String](data-structure/string/README.md)
