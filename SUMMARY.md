@@ -36,7 +36,8 @@
 
 ## Algorithm Design
 
-* [Binary Index](algorithm-design/binary-index.md)
+* [Binary Index](algorithm-design/binary-index/README.md)
+  * [415. 字符串相加](algorithm-design/binary-index/672.-deng-pao-kai-guan.md)
 * [Binary Search](algorithm-design/binary-search/README.md)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](algorithm-design/binary-search/672.-deng-pao-kai-guan.md)
   * [1898. 可移除字符的最大数目](algorithm-design/binary-search/672.-deng-pao-kai-guan-1.md)
