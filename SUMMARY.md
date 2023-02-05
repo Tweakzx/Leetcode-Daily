@@ -39,7 +39,7 @@
 ## Algorithm Design
 
 * [Binary Index](algorithm-design/binary-index.md)
-* [Binary Search](algorithm-design/binary-search/README.md)
+* [Search](algorithm-design/binary-search/README.md)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](algorithm-design/binary-search/34.-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-su-de-di-yi-ge-he-zui-hou-yi-ge-wei-zhi.md)
   * [1898. 可移除字符的最大数目](algorithm-design/binary-search/1898.-ke-yi-chu-zi-fu-de-zui-da-shu-mu.md)
   * [1894. 找到需要补充粉笔的学生编号](algorithm-design/binary-search/1894.-zhao-dao-xu-yao-bu-chong-fen-bi-de-xue-sheng-bian-hao.md)
@@ -49,8 +49,6 @@
   * [303. 区域和检索 - 数组不可变](algorithm-design/dynamic-planning/303.-qu-yu-he-jian-suo-shu-zu-bu-ke-bian.md)
 * [Greedy](algorithm-design/greedy.md)
 * [Back Track](algorithm-design/back-track.md)
-* [DFS](algorithm-design/dfs.md)
-* [BFS](algorithm-design/bfs.md)
 * [Sliding Window](algorithm-design/sliding-window.md)
 
 ## Advanced Data Structure
@@ -65,6 +63,9 @@
 
 ## Graph
 
+* [DFS](graph/dfs.md)
+* [BFS](graph/bfs.md)
+* [Topology Sort](graph/topology-sort.md)
 * [Dijstra](graph/dijstra.md)
 * [Union Find Set](graph/union-find-set.md)
 
