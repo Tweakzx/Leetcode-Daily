@@ -109,4 +109,3 @@
 ## Template
 
 * [Page Template](readme/page.md)
-* [Subpage Template](readme/.md)
