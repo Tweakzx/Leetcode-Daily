@@ -108,5 +108,5 @@
 
 ## Template
 
-* [Page Template](readme/page.md)
-* [Subpage Template](readme/subpage.md)
+* [Page Template](templates/page.md)
+* [Subpage Template](templates/subpage.md)
