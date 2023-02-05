@@ -46,6 +46,7 @@
   * [1870. 准时到达的列车最小时速](algorithm-design/binary-search/1870.-zhun-shi-dao-da-de-lie-che-zui-xiao-shi-su.md)
 * [DP](algorithm-design/dynamic-planning.md)
   * [354. 俄罗斯套娃信封问题](algorithm-design/dynamic-planning/354.-eluo-si-tao-wa-xin-feng-wen-ti.md)
+  * [303. 区域和检索 - 数组不可变](algorithm-design/dynamic-planning/303.-qu-yu-he-jian-suo-shu-zu-bu-ke-bian.md)
 * [Greedy](algorithm-design/greedy.md)
 * [Back Track](algorithm-design/back-track.md)
 * [DFS](algorithm-design/dfs.md)
