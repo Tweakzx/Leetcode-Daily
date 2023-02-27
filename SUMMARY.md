@@ -32,7 +32,8 @@
 * [Bubble, Selection and Insertion Sort](sort/bubble-selection-and-insertion-sort.md)
 * [Quick Sort](sort/quick-sort.md)
   * [912. 排序数组](sort/quick-sort/912.-pai-xu-shu-zu.md)
-* [Merge Sort](sort/merge-sort.md)
+* [Merge Sort](sort/merge-sort/README.md)
+  * [315. 计算右侧小于当前元素的个数](sort/merge-sort/315.-ji-suan-you-ce-xiao-yu-dang-qian-yuan-su-de-ge-shu.md)
 * [Heap Sort](sort/heap-sort.md)
 * [Linear Complexity Sort Algorithm](sort/linear-complexity-sort-algorithm.md)
 
