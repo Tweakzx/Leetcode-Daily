@@ -23,6 +23,7 @@
   * [43. 字符串相乘](data-structure/string/43.-zi-fu-chuan-xiang-cheng.md)
 * [Linked List](data-structure/linked-list/README.md)
   * [剑指 Offer 35. 复杂链表的复制](data-structure/linked-list/jian-zhi-offer-35.-fu-za-lian-biao-de-fu-zhi.md)
+  * [25. K 个一组翻转链表](data-structure/linked-list/25.k-ge-yi-zu-fan-zhuan-lian-biao.md)
 * [Hash Set](data-structure/hash-set.md)
 * [Binary Tree](data-structure/binary-tree/README.md)
   * [235. 二叉搜索树的最近公共祖先](data-structure/binary-tree/235.-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
