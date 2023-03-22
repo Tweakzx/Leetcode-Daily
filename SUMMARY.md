@@ -24,7 +24,8 @@
 * [Linked List](data-structure/linked-list/README.md)
   * [剑指 Offer 35. 复杂链表的复制](data-structure/linked-list/jian-zhi-offer-35.-fu-za-lian-biao-de-fu-zhi.md)
 * [Hash Set](data-structure/hash-set.md)
-* [Binary Tree](data-structure/binary-tree.md)
+* [Binary Tree](data-structure/binary-tree/README.md)
+  * [235. 二叉搜索树的最近公共祖先](data-structure/binary-tree/235.-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
 * [Stack and Queue](data-structure/stack-and-queue.md)
 
 ## Sort
