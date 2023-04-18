@@ -53,6 +53,7 @@
   * [303. 区域和检索 - 数组不可变](algorithm-design/dynamic-planning/303.-qu-yu-he-jian-suo-shu-zu-bu-ke-bian.md)
   * [304. 二维区域和检索 - 矩阵不可变](algorithm-design/dynamic-planning/304.-er-wei-qu-yu-he-jian-suo-ju-zhen-bu-ke-bian.md)
   * [5. 最长回文子串](algorithm-design/dynamic-planning/5.-zui-chang-hui-wen-zi-chuan.md)
+  * [2132. 用邮票贴满网格图](algorithm-design/dynamic-planning/2132.-yong-you-piao-tie-man-wang-ge-tu.md)
 * [Greedy](algorithm-design/greedy.md)
 * [Back Track](algorithm-design/back-track.md)
 * [Sliding Window](algorithm-design/sliding-window.md)
