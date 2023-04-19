@@ -41,7 +41,7 @@
 
 ## Algorithm Design
 
-* [Binary Index](algorithm-design/binary-index/README.md)
+* [Binary Index](algorithm-design/binary-index.md)
   * [713. 乘积小于 K 的子数组](algorithm-design/binary-index/713.-cheng-ji-xiao-yu-k-de-zi-shu-zu.md)
 * [Search](algorithm-design/binary-search/README.md)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](algorithm-design/binary-search/34.-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-su-de-di-yi-ge-he-zui-hou-yi-ge-wei-zhi.md)
@@ -87,6 +87,7 @@
   * [754. 到达终点数字](math/math/754.-dao-da-zhong-dian-shu-zi.md)
 * [Number Theory](math/number-theory.md)
 * [Bit Manipulation](math/bit-manipulation/README.md)
+  * [191. 位 1 的个数](math/bit-manipulation/subpage.md)
   * [89. 格雷编码](math/bit-manipulation/89.-ge-lei-bian-ma.md)
 
 ## Database
