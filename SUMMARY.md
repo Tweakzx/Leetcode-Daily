@@ -41,7 +41,8 @@
 
 ## Algorithm Design
 
-* [Binary Index](algorithm-design/binary-index.md)
+* [Binary Index](algorithm-design/binary-index/README.md)
+  * [713. 乘积小于 K 的子数组](algorithm-design/binary-index/713.-cheng-ji-xiao-yu-k-de-zi-shu-zu.md)
 * [Search](algorithm-design/binary-search/README.md)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](algorithm-design/binary-search/34.-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-su-de-di-yi-ge-he-zui-hou-yi-ge-wei-zhi.md)
   * [1898. 可移除字符的最大数目](algorithm-design/binary-search/1898.-ke-yi-chu-zi-fu-de-zui-da-shu-mu.md)
