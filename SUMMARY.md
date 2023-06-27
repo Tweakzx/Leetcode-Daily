@@ -28,6 +28,7 @@
 * [Hash Set](data-structure/hash-set.md)
 * [Binary Tree](data-structure/binary-tree/README.md)
   * [235. 二叉搜索树的最近公共祖先](data-structure/binary-tree/235.-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
+  * [236. 二叉树的最近公共祖先](data-structure/binary-tree/236.-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
   * [103. 二叉树的锯齿形层序遍历](data-structure/binary-tree/103.-er-cha-shu-de-ju-chi-xing-ceng-xu-bian-li.md)
 * [Stack and Queue](data-structure/stack-and-queue.md)
 
