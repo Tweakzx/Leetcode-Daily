@@ -60,7 +60,8 @@
   * [5. 最长回文子串](algorithm-design/dynamic-planning/5.-zui-chang-hui-wen-zi-chuan.md)
   * [2132. 用邮票贴满网格图](algorithm-design/dynamic-planning/2132.-yong-you-piao-tie-man-wang-ge-tu.md)
 * [Greedy](algorithm-design/greedy.md)
-* [Back Track](algorithm-design/back-track.md)
+* [Back Track](algorithm-design/back-track/README.md)
+  * [46. 全排列](algorithm-design/back-track/46.-quan-pai-lie.md)
 * [Sliding Window](algorithm-design/sliding-window/README.md)
   * [3. 无重复字符的最长子串](algorithm-design/sliding-window/3.-wu-zhong-fu-zi-fu-de-zui-chang-zi-chuan.md)
 
