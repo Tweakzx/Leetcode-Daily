@@ -54,6 +54,7 @@
   * [1894. 找到需要补充粉笔的学生编号](algorithm-design/binary-search/1894.-zhao-dao-xu-yao-bu-chong-fen-bi-de-xue-sheng-bian-hao.md)
   * [1870. 准时到达的列车最小时速](algorithm-design/binary-search/1870.-zhun-shi-dao-da-de-lie-che-zui-xiao-shi-su.md)
   * [1306. 跳跃游戏 III](algorithm-design/binary-search/1306.-tiao-yue-you-xi-iii.md)
+  * [33. 搜索旋转排序数组](algorithm-design/binary-search/33.-sou-suo-xuan-zhuan-pai-xu-shu-zu.md)
 * [DP](algorithm-design/dynamic-planning.md)
   * [354. 俄罗斯套娃信封问题](algorithm-design/dynamic-planning/354.-eluo-si-tao-wa-xin-feng-wen-ti.md)
   * [303. 区域和检索 - 数组不可变](algorithm-design/dynamic-planning/303.-qu-yu-he-jian-suo-shu-zu-bu-ke-bian.md)
