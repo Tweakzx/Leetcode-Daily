@@ -73,7 +73,8 @@
 * [Monotone Stack](advanced-data-structure/monotone-stack/README.md)
   * [862. 和至少为 K 的最短子数组](advanced-data-structure/monotone-stack/862.-he-zhi-shao-wei-k-de-zui-duan-zi-shu-zu.md)
   * [907. 子数组的最小值之和](advanced-data-structure/monotone-stack/907.-zi-shu-zu-de-zui-xiao-zhi-zhi-he.md)
-* [Priority Queue](advanced-data-structure/priority-queue.md)
+* [Heap and Priority Queue](advanced-data-structure/priority-queue/README.md)
+  * [215. 数组中的第K个最大元素](advanced-data-structure/priority-queue/215.-shu-zu-zhong-de-dikge-zui-da-yuan-su.md)
 * [Segment Tree](advanced-data-structure/segment-tree.md)
 * [B Tree](advanced-data-structure/b-tree.md)
 
